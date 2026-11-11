@@ -22,11 +22,16 @@ I build AI systems that turn research and real-world data into products people c
 
 More about my background and work on [my portfolio](https://duyle.me).
 
-## Selected work
+## Selected professional projects
 
-[Agent Framework Crash-Resume Benchmark](https://github.com/leduy-it/agent-framework-resume-benchmark) · A practical look at what agent frameworks replay after a crash.
+| Project / domain | Problem and contribution |
+| :--- | :--- |
+| **Educational content AI** · [GrowtricsAI](https://duyle.me/experience/growtrics) | Manual content labeling: built an agentic document-parsing pipeline to turn educational material into structured Q&A. |
+| **Multilingual OCR** · [GMO-Z.com RUNSYSTEM](https://duyle.me/experience/gmo-runsystem) | Documents across Vietnamese and Japanese: built and deployed an OCR platform with data enrichment, training and evaluation. |
+| **Fraud detection** · [SmartPay](https://duyle.me/experience/smartpay) | Real-time transaction fraud: developed a pipeline with automated feature engineering and model retraining. |
+| **Merchant contracts** · [SmartPay](https://duyle.me/experience/smartpay) | Manual fee setup: built an LLM workflow to interpret contracts and configure the internal fee-setting system. |
 
-[Hatch Pet Plus](https://github.com/leduy-it/hatch-pet-plus) · A creative toolkit for building animated pets for Codex and Claude Code.
+**Public work:** [Agent Framework Crash-Resume Benchmark](https://github.com/leduy-it/agent-framework-resume-benchmark) · [Hatch Pet Plus](https://github.com/leduy-it/hatch-pet-plus)
 
 ---
 
