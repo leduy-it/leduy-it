@@ -1,52 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
   <title id="title">Duy Le — AI Engineer</title>
-  <desc id="desc">Building useful AI systems, from research to real-world products.</desc>
+  <desc id="desc">A luminous glass planet with rings beside the words Duy Le, AI Engineer.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#080f20"/><stop offset=".53" stop-color="#121b39"/><stop offset="1" stop-color="#092d39"/>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#07080e"/><stop offset=".52" stop-color="#0c0d1b"/><stop offset="1" stop-color="#17132a"/>
     </linearGradient>
-    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
-      <stop stop-color="#47c8d3" stop-opacity=".24"/><stop offset=".48" stop-color="#2e80b8" stop-opacity=".10"/><stop offset="1" stop-color="#1c497c" stop-opacity="0"/>
+    <radialGradient id="atmosphere" cx="55%" cy="46%" r="53%">
+      <stop stop-color="#776ca5" stop-opacity=".31"/><stop offset=".40" stop-color="#48466e" stop-opacity=".15"/><stop offset="1" stop-color="#151427" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#ccfff3"/><stop offset=".47" stop-color="#6dd9de"/><stop offset="1" stop-color="#7399f4"/>
+    <radialGradient id="sphere" cx="32%" cy="25%" r="78%">
+      <stop stop-color="#e8e9f7" stop-opacity=".93"/><stop offset=".13" stop-color="#b9b6d5" stop-opacity=".78"/><stop offset=".38" stop-color="#777598" stop-opacity=".82"/><stop offset=".68" stop-color="#37344e" stop-opacity=".96"/><stop offset="1" stop-color="#10111d"/>
+    </radialGradient>
+    <radialGradient id="glassLight" cx="25%" cy="17%" r="70%">
+      <stop stop-color="#faf8ff" stop-opacity=".70"/><stop offset=".16" stop-color="#c5bfeb" stop-opacity=".25"/><stop offset=".53" stop-color="#a29ac8" stop-opacity=".05"/><stop offset="1" stop-color="#b6c5ed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringBack" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67667e" stop-opacity=".36"/><stop offset=".25" stop-color="#d4d1e4" stop-opacity=".76"/><stop offset=".52" stop-color="#8f8ca9" stop-opacity=".42"/><stop offset=".76" stop-color="#eee8fa" stop-opacity=".80"/><stop offset="1" stop-color="#56546f" stop-opacity=".24"/>
     </linearGradient>
-    <linearGradient id="facet" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#95f8e5" stop-opacity=".34"/><stop offset=".52" stop-color="#5baad3" stop-opacity=".10"/><stop offset="1" stop-color="#5f78e5" stop-opacity=".25"/>
+    <linearGradient id="ringFront" x1="0" y1="0" x2="1" y2=".2">
+      <stop stop-color="#37354d" stop-opacity=".76"/><stop offset=".18" stop-color="#b2acc7" stop-opacity=".80"/><stop offset=".43" stop-color="#f3efff" stop-opacity=".92"/><stop offset=".65" stop-color="#9c98b8" stop-opacity=".76"/><stop offset=".85" stop-color="#e0dced" stop-opacity=".86"/><stop offset="1" stop-color="#4b4a61" stop-opacity=".62"/>
     </linearGradient>
-    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#8bf5df"/><stop offset="1" stop-color="#6a9afa" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="frame"><rect width="1200" height="420" rx="24"/></clipPath>
+    <radialGradient id="specular" cx="30%" cy="28%" r="60%">
+      <stop stop-color="#fff" stop-opacity=".8"/><stop offset=".20" stop-color="#efedff" stop-opacity=".23"/><stop offset="1" stop-color="#b6addc" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="canvas"><rect width="1200" height="440" rx="22"/></clipPath>
+    <clipPath id="planetClip"><circle cx="910" cy="218" r="143"/></clipPath>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="420" fill="url(#background)"/>
-    <circle cx="928" cy="203" r="300" fill="url(#halo)"/>
-    <path d="M600 -42L1180 420M745 -40L1200 322M922 -30L1200 190" fill="none" stroke="#a7dff2" stroke-opacity=".045"/>
-    <path d="M0 352H1200M0 353H1200" stroke="#9ad9e8" stroke-opacity=".07"/>
-    <path d="M66 54H132" stroke="url(#rule)" stroke-width="4" stroke-linecap="round"/>
-    <text x="67" y="104" fill="#9cebe0" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" letter-spacing="3">AI ENGINEER  /  APPLIED ML</text>
-    <text x="61" y="204" fill="#f5f9ff" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="700" letter-spacing="-3">Duy Le<tspan fill="#78e9dc">.</tspan></text>
-    <text x="67" y="254" fill="#d3e3f0" font-family="Arial,Helvetica,sans-serif" font-size="27">Building useful AI systems.</text>
-    <text x="67" y="295" fill="#9ab2c6" font-family="Arial,Helvetica,sans-serif" font-size="20">From research to real-world products.</text>
-    <text x="67" y="389" fill="#9ab9ca" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="1.5">AGENTS   /   DOCUMENT AI   /   COMPUTER VISION</text>
-    <g transform="translate(935 203)">
-      <circle r="168" fill="none" stroke="#8de8e4" stroke-opacity=".10"/>
-      <circle r="132" fill="none" stroke="#92e9e6" stroke-opacity=".17"/>
-      <circle r="92" fill="none" stroke="#b8f9ee" stroke-opacity=".20"/>
-      <ellipse rx="185" ry="68" transform="rotate(-29)" fill="none" stroke="url(#metal)" stroke-opacity=".48" stroke-width="1.2"/>
-      <ellipse rx="171" ry="76" transform="rotate(39)" fill="none" stroke="#8baefa" stroke-opacity=".38" stroke-width="1.2"/>
-      <ellipse rx="140" ry="46" transform="rotate(-69)" fill="none" stroke="#a3f6e7" stroke-opacity=".28"/>
-      <path d="M0 -88L77 -45L77 44L0 88L-77 44L-77 -45Z" fill="url(#facet)" stroke="#a8e9ee" stroke-opacity=".50"/>
-      <path d="M0 -88V0L77 44M0 0L-77 44M0 0L77 -45M0 0L-77 -45M0 0V88" fill="none" stroke="#9de8eb" stroke-opacity=".46"/>
-      <path d="M-144 32L-77 -45L0 -88L77 -45L142 -9M-118 97L-77 44L0 88L77 44L123 91" fill="none" stroke="url(#metal)" stroke-opacity=".60" stroke-width="1.4"/>
-      <circle r="7" fill="#cffff2"/><circle r="17" fill="none" stroke="#b7f9ed" stroke-opacity=".5"/>
-      <circle cx="-144" cy="32" r="4" fill="#8bf5e0"/><circle cx="-77" cy="-45" r="4" fill="#a6f4e9"/>
-      <circle cx="0" cy="-88" r="4" fill="#c5fff3"/><circle cx="77" cy="-45" r="5" fill="#a9ddfa"/>
-      <circle cx="142" cy="-9" r="4" fill="#9acbff"/><circle cx="123" cy="91" r="4" fill="#8aa9ff"/>
-      <circle cx="-118" cy="97" r="3" fill="#89e7db"/><circle cx="0" cy="88" r="4" fill="#a4e6ed"/>
-      <circle cx="-165" cy="-73" r="2" fill="#b1fff0"/><circle cx="139" cy="-132" r="2" fill="#b8d6ff"/>
+  <g clip-path="url(#canvas)">
+    <rect width="1200" height="440" fill="url(#ink)"/>
+    <ellipse cx="916" cy="216" rx="340" ry="255" fill="url(#atmosphere)"/>
+    <g fill="#e8e6f8">
+      <circle cx="628" cy="78" r="1.1" opacity=".40"/><circle cx="724" cy="334" r=".9" opacity=".46"/>
+      <circle cx="760" cy="54" r="1.2" opacity=".48"/><circle cx="1111" cy="64" r="1.3" opacity=".54"/>
+      <circle cx="1144" cy="304" r=".9" opacity=".44"/><circle cx="665" cy="231" r=".8" opacity=".35"/>
+      <circle cx="1064" cy="375" r="1.1" opacity=".46"/><circle cx="1180" cy="149" r=".8" opacity=".35"/>
     </g>
-    <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#c3eaff" stroke-opacity=".14"/>
+    <text x="75" y="99" fill="#c9c3da" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="3.4">AI ENGINEER</text>
+    <text x="69" y="200" fill="#f6f4fa" font-family="Arial,Helvetica,sans-serif" font-size="98" font-weight="700" letter-spacing="-3.5">Duy Le</text>
+    <text x="75" y="266" fill="#e2deed" font-family="Arial,Helvetica,sans-serif" font-size="27">Building useful AI systems.</text>
+    <text x="75" y="309" fill="#a9a5bc" font-family="Arial,Helvetica,sans-serif" font-size="23">From research to real-world products.</text>
+    <!-- The far half of the ring sits behind the sphere. -->
+    <g transform="translate(910 218) rotate(-17)">
+      <path d="M-282 0a282 76 0 1 0 564 0a282 76 0 1 0 -564 0 M-113 0a113 30 0 1 1 226 0a113 30 0 1 1 -226 0" fill="url(#ringBack)" fill-rule="evenodd"/>
+      <ellipse rx="277" ry="73" fill="none" stroke="#e7e4f6" stroke-opacity=".35" stroke-width="1.1"/>
+      <ellipse rx="232" ry="61" fill="none" stroke="#eeeaff" stroke-opacity=".23" stroke-width="1"/>
+      <ellipse rx="169" ry="44" fill="none" stroke="#e4def4" stroke-opacity=".25" stroke-width="1"/>
+    </g>
+    <!-- A translucent, shaded sphere with veiled bands and edge light. -->
+    <circle cx="910" cy="218" r="143" fill="url(#sphere)"/>
+    <g clip-path="url(#planetClip)">
+      <circle cx="910" cy="218" r="143" fill="url(#glassLight)"/>
+      <path d="M755 169C830 188 936 153 1060 119L1065 142C960 176 844 207 755 190Z" fill="#f0eafb" opacity=".10"/>
+      <path d="M756 239C840 248 951 206 1060 180L1062 193C960 226 847 266 756 254Z" fill="#d0c7eb" opacity=".12"/>
+      <path d="M757 276C854 285 960 249 1061 218L1063 228C962 263 858 301 757 287Z" fill="#e8e0f7" opacity=".07"/>
+      <path d="M806 103C773 163 777 265 831 333C768 308 750 206 790 131Z" fill="#f1efff" opacity=".10"/>
+      <ellipse cx="855" cy="143" rx="83" ry="54" transform="rotate(-28 855 143)" fill="url(#specular)" opacity=".56"/>
+      <path d="M1013 125C1051 179 1054 251 1012 316" fill="none" stroke="#dcd4ff" stroke-opacity=".28" stroke-width="5"/>
+    </g>
+    <circle cx="910" cy="218" r="142.5" fill="none" stroke="#f0eafa" stroke-opacity=".42"/>
+    <path d="M797 145C816 108 852 82 891 77" fill="none" stroke="#fffaff" stroke-opacity=".54" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- The near half crosses the planet and catches a soft pearl highlight. -->
+    <g transform="translate(910 218) rotate(-17)">
+      <path d="M-282 0A282 76 0 0 0 282 0L113 0A113 30 0 0 1 -113 0Z" fill="url(#ringFront)" opacity=".90"/>
+      <path d="M-282 0A282 76 0 0 0 282 0" fill="none" stroke="#f8f4ff" stroke-opacity=".65" stroke-width="1.3"/>
+      <path d="M-252 0A252 67 0 0 0 252 0" fill="none" stroke="#f2edff" stroke-opacity=".45" stroke-width="1"/>
+      <path d="M-197 0A197 51 0 0 0 197 0" fill="none" stroke="#f7f2ff" stroke-opacity=".45" stroke-width="1"/>
+      <path d="M-125 0A125 33 0 0 0 125 0" fill="none" stroke="#fffaff" stroke-opacity=".52" stroke-width="1"/>
+    </g>
+    <rect x=".75" y=".75" width="1198.5" height="438.5" rx="21" fill="none" stroke="#dfd9ef" stroke-opacity=".13" stroke-width="1.5"/>
   </g>
 </svg>
