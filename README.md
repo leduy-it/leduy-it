@@ -2,7 +2,7 @@
 
 <sub>Jupiter image: <a href="https://science.nasa.gov/photojournal/cassini-jupiter-portrait/">Cassini Jupiter Portrait</a> · NASA/JPL/Space Science Institute</sub>
 
-I build AI systems that turn research and real-world data into products people can use. My work spans **LLM agents, document understanding, computer vision and the engineering around them**—from data pipelines and evaluation to APIs and interfaces.
+I'm Duy Le (Lê Văn Duy), also known as duyle or Michael Le. I build AI systems that turn research and real-world data into products people can use. My work spans **LLM agents, document understanding, computer vision and the engineering around them**—from data pipelines and evaluation to APIs and interfaces.
 
 [Portfolio](https://duyle.me) · [LinkedIn](https://www.linkedin.com/in/leduy-it/) · Ho Chi Minh City, Vietnam
 
