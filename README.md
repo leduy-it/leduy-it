@@ -33,6 +33,12 @@ More about my background and work on [my portfolio](https://duyle.me).
 | **Fraud detection** · [SmartPay](https://duyle.me/experience/smartpay) | Real-time transaction fraud: developed a pipeline with automated feature engineering and model retraining. |
 | **Merchant contracts** · [SmartPay](https://duyle.me/experience/smartpay) | Manual fee setup: built an LLM workflow to interpret contracts and configure the internal fee-setting system. |
 
+## Publication
+
+[Cộng tác giữa con người và trí tuệ nhân tạo: Phân tích tổng hợp đa ngành](https://jabes.ueh.edu.vn/Home/SearchArticle?article_Id=6b00591d-9202-4832-8977-507b4968814d)
+
+Ngô Minh Vũ, Lê Văn Duy, Nguyễn Thế Huy & Vương Thúy Ngọc · Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á, 37(9), September 2026.
+
 **Public work:** [Agent Framework Crash-Resume Benchmark](https://github.com/leduy-it/agent-framework-resume-benchmark) · [Hatch Pet Plus](https://github.com/leduy-it/hatch-pet-plus)
 
 ---
