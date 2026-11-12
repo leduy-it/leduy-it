@@ -35,9 +35,11 @@ More about my background and work on [my portfolio](https://duyle.me).
 
 ## Publication
 
-[Cộng tác giữa con người và trí tuệ nhân tạo: Phân tích tổng hợp đa ngành](https://jabes.ueh.edu.vn/Home/SearchArticle?article_Id=6b00591d-9202-4832-8977-507b4968814d)
+**Human–AI Collaboration: A Multidisciplinary Meta-Analysis** (English translation)
 
-Ngô Minh Vũ, Lê Văn Duy, Nguyễn Thế Huy & Vương Thúy Ngọc · Tạp chí Nghiên cứu Kinh tế và Kinh doanh Châu Á, 37(9), September 2026.
+Original title: [Cộng tác giữa con người và trí tuệ nhân tạo: Phân tích tổng hợp đa ngành](https://jabes.ueh.edu.vn/Home/SearchArticle?article_Id=6b00591d-9202-4832-8977-507b4968814d)
+
+Ngô Minh Vũ, Lê Văn Duy, Nguyễn Thế Huy & Vương Thúy Ngọc · Journal of Asian Business and Economic Studies (JABES), UEH · 37(9), September 2026.
 
 **Public work:** [Agent Framework Crash-Resume Benchmark](https://github.com/leduy-it/agent-framework-resume-benchmark) · [Hatch Pet Plus](https://github.com/leduy-it/hatch-pet-plus)
 
